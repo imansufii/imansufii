@@ -1,19 +1,14 @@
 # Iman Sufi
 
-I am a final-year Bachelor of Computer Science (Hons.) student with an interest in web development. I enjoy learning how to turn clear requirements into practical, understandable web experiences.
+I am a final-year Bachelor of Computer Science (Hons.) student interested in web development. I enjoy learning how clear requirements can be turned into practical and easy-to-understand software.
 
 ## About Me
 
-- Final-year Computer Science student
-- Interested in front-end and full-stack web development
-- Currently developing my requirements analysis, GitHub workflow, and Decision Support System knowledge through CSC649
-- Still exploring a suitable Final Year Project topic
+I am currently strengthening my programming, requirements analysis, and GitHub workflow skills through coursework and personal projects. My Final Year Project topic has not been selected yet, and I am exploring ideas related to web development and user-friendly systems.
 
 ## Education
 
-**Bachelor of Computer Science (Hons.)**
-
-Final Year
+**Bachelor of Computer Science (Hons.)** — Final Year
 
 ## Skills and Tools
 
@@ -25,14 +20,14 @@ Final Year
 ## Interests
 
 - Web development
-- User-friendly interface design
-- Building practical systems from well-defined user needs
+- Front-end interface design
+- Building practical systems from clear user needs
 
-## Projects
+## Featured Project
 
 ### [MyASNB Compare and Plan](https://github.com/imansufii/myasnb-compare-plan)
 
-A CSC649 conceptual Decision Support System for comparing published ASNB fund information and exploring illustrative savings scenarios. It is a planning and documentation project, not a live ASNB service or investment-advice tool.
+A CSC649 conceptual Decision Support System for comparing published ASNB fund information and exploring illustrative savings scenarios. The repository contains the problem formulation, requirements, user stories, DSS explanation, and project documentation.
 
 ## Contact
 
