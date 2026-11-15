@@ -11,7 +11,8 @@ I am a final-year Bachelor of Computer Science (Hons.) student with an interest 
 
 ## Education
 
-**Bachelor of Computer Science (Hons.)**  
+**Bachelor of Computer Science (Hons.)**
+
 Final Year
 
 ## Skills and Tools
